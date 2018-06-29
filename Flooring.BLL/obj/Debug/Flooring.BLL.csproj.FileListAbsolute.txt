@@ -1,0 +1,11 @@
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.BLL\bin\Debug\Flooring.BLL.dll
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.BLL\bin\Debug\Flooring.BLL.pdb
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.BLL\bin\Debug\Flooring.Data.dll
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.BLL\bin\Debug\Flooring.Models.dll
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.BLL\bin\Debug\Flooring.Data.pdb
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.BLL\bin\Debug\Flooring.Models.pdb
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.csprojAssemblyReference.cache
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.csproj.CoreCompileInputs.cache
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.csproj.CopyComplete
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.dll
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.BLL\obj\Debug\Flooring.BLL.pdb

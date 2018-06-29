@@ -1,0 +1,6 @@
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.Models\bin\Debug\Flooring.Models.dll
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.Models\bin\Debug\Flooring.Models.pdb
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.Models\obj\Debug\Flooring.Models.csproj.CoreCompileInputs.cache
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.Models\obj\Debug\Flooring.Models.dll
+c:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.Models\obj\Debug\Flooring.Models.pdb
+C:\Users\Alex\Documents\Repos2\alex-pacheco-individual-work\Flooring\Flooring.Models\obj\Debug\Flooring.Models.csprojAssemblyReference.cache
